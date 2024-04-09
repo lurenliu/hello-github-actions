@@ -1,1 +1,1 @@
-sh -c "echo hello $INPUT_MY_NAME , this is myself Github Action"
+sh -c "echo hello  , this is myself Github Action"

@@ -1,0 +1,17 @@
+name: "hello Actions"
+description: "Great myself"
+author: "tiam"
+
+inputs: 
+  MYNAME: 
+    description: "this is my name"
+    require: true
+    default: "yu"
+
+runs: 
+  using: "docker"
+  image: "Dockerfile"
+
+branding: 
+  "icon": "mic"
+  "color": "purple"

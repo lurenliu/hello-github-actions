@@ -3,7 +3,7 @@ description: "Great Myself"
 author: "Tiam"
 
 inputs: 
-  MYNAME: 
+  MY_NAME: 
     description: "this is my name"
     require: true
     default: "Yu"

@@ -2,9 +2,9 @@ name: "Hello Actions"
 description: "Great Myself"
 author: "Tiam"
 
-inputs: 
-  MY_NAME: 
-    description: "this is my name"
+inputs:
+  MY_NAME:
+    description: 'this is myname'
     required: true
     default: "Yu"
 
